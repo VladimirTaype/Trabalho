@@ -6,7 +6,6 @@ namespace TrabalhoADS
     {
         static void Main(string[] args)
         {
-            // Substitua "Seu Nome" pelo seu nome completo e "Seu RA" pelo seu RA
             string nomeAluno = "Vladimir Jesús Taype Quispe";
             string raAluno = "R1190B0";
 
